@@ -1,4 +1,4 @@
-project_movies_c- Part 1
+# project_movies_c- Part 1
 
 > Data Mining course project — building a dataset of 5,000 movies with titles starting with **C**, combining IMDb, Wikipedia scraping, and the OMDb API.
 
