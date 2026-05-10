@@ -4,9 +4,10 @@
 פרויקט זה אוסף נתוני סרטים מתוך IMDb ו־Wikipedia.
 
 סט הנתונים נבנה באמצעות:
-- IMDb Non-Commercial Datasets
+- IMDb Datasets
 - Wikipedia API
 - Web Scraping באמצעות BeautifulSoup
+- OMDb API
 
 סט הנתונים הסופי כולל:
 - שם הסרט
@@ -23,15 +24,13 @@
 - תקציר הסרט
 
 ## קבצים
-- notebook.ipynb – קוד Python מלא
-- dataset.csv – סט הנתונים הסופי והנקי
-- report.pdf – דוח הפרויקט
+- project_part1_final.ipynb – קוד Python מלא
+- dataset25.xls – סט הנתונים הסופי והנקי
+- aדוח איסוף נתוני סרטים סופי1.pdf – דוח הפרויקט
 - README.md – תיאור הפרויקט
 
-## דרישות
-Python 3.8+
 
-ספריות בשימוש:
+## ספריות בשימוש:
 - pandas
 - numpy
 - requests
@@ -42,5 +41,5 @@ Python 3.8+
 
 ## הוראות הרצה
 1. להוריד את קבצי IMDb
-2. להריץ את notebook.ipynb מתחילתו ועד סופו
-3. סט הנתונים הסופי יישמר בשם dataset.csv
+2. להריץ את project_part1_final.ipynb מתחילתו ועד סופו
+3. סט הנתונים הסופי יישמר בשם dataset25.csv
